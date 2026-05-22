@@ -3,3 +3,7 @@ def resta(a, b):
 
 def division(a, b):
     return a / b if b != 0 else "Error: división entre cero"
+    
+def potencia(a, b):
+    return a ** b
+
